@@ -1,0 +1,54 @@
+generator client {
+  provider = "prisma-client"
+  output   = "./generated/prisma"
+}
+
+datasource db {
+  provider = "postgresql"
+}
+
+enum FuelType {
+  Petrol
+  Hybrid
+  Electric
+}
+
+model Car {
+  id          String   @id @default(uuid())
+  name        String
+  year        Int
+  bodyType    String
+  fuelType    FuelType
+  price       Float
+  description String
+  features    String
+  imageUrl    String?
+
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  reviews Review[]
+  summary Summary?
+}
+
+model Review {
+  id      String @id @default(uuid())
+  author  String
+  rating  Float
+  content String
+
+  carId String
+  car   Car    @relation(fields: [carId], references: [id])
+
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+}
+
+model Summary {
+  id          String   @id @default(uuid())
+  carId       String   @unique
+  car         Car      @relation(fields: [carId], references: [id], onDelete: Cascade)
+  content     String
+  generatedAt DateTime @default(now())
+  expiredAt   DateTime
+}

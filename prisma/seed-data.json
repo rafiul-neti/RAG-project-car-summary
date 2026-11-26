@@ -1,0 +1,445 @@
+{
+  "cars": [
+    {
+      "id": "2db26555-79f9-4c89-b89d-979536a66401",
+      "name": "2025 Toyota Camry LE",
+      "year": 2025,
+      "bodyType": "Sedan",
+      "fuelType": "Hybrid",
+      "price": 28400,
+      "description": "The US-market 2025 Camry LE is a front-wheel-drive midsize sedan with Toyota's 2.5-liter hybrid system and 225 net combined horsepower.",
+      "features": "2.5L hybrid powertrain; 225 net combined horsepower; Toyota Safety Sense 3.0; Blind Spot Monitor; wireless Apple CarPlay; wireless Android Auto",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/2025_Toyota_Camry_LE%2C_front_left.jpg/1280px-2025_Toyota_Camry_LE%2C_front_left.jpg",
+      "reviews": [
+        {
+          "author": "Marcus Lee",
+          "content": "The Camry feels really smooth in stop-and-go traffic, and the hybrid system is barely noticeable. I just wish the base seats had a little more support on long trips.",
+          "rating": 4.5
+        },
+        {
+          "author": "Olivia Bennett",
+          "content": "I've been using it for my daily commute and the fuel savings are noticeable. The cabin is quiet at city speeds, though highway road noise does creep in.",
+          "rating": 4
+        },
+        {
+          "author": "Daniel Foster",
+          "content": "Toyota got the basics right here. Comfortable ride, easy controls, and plenty of room in the back. Nothing flashy, which is exactly what I wanted.",
+          "rating": 5
+        },
+        {
+          "author": "Rachel Kim",
+          "content": "Wireless CarPlay connects quickly most days, but it has dropped out a couple of times. Otherwise, the car has been straightforward to live with.",
+          "rating": 3.5
+        },
+        {
+          "author": "Kevin Morales",
+          "content": "Acceleration is better than I expected from a hybrid sedan. The steering is light and easy for parking, but it isn't particularly engaging on curvy roads.",
+          "rating": 4
+        },
+        {
+          "author": "Samantha Reed",
+          "content": "I like the safety features and the visibility from the driver's seat. The interior plastics look a little plain for a brand-new car, though.",
+          "rating": 4
+        },
+        {
+          "author": "Aaron Patel",
+          "content": "Took it on a weekend road trip with three friends. Everyone had enough space and the ride stayed comfortable, even after several hours.",
+          "rating": 4.5
+        },
+        {
+          "author": "Emily Carter",
+          "content": "Great everyday car, but the trunk opening is narrower than I expected. Loading a bulky stroller takes some effort.",
+          "rating": 3.5
+        },
+        {
+          "author": "Nathan Brooks",
+          "content": "I compared this with a few other sedans and chose it for the balance of price and efficiency. So far it has delivered on both.",
+          "rating": 4.5
+        },
+        {
+          "author": "Priya Shah",
+          "content": "The brakes took me a few days to get used to because of the regenerative feel. Now it's fine, and I appreciate how relaxed it is in traffic.",
+          "rating": 4
+        }
+      ]
+    },
+    {
+      "id": "2db26555-79f9-4c89-b89d-979536a66402",
+      "name": "2025 Honda Civic Sedan Sport Touring Hybrid",
+      "year": 2025,
+      "bodyType": "Sedan",
+      "fuelType": "Hybrid",
+      "price": 31950,
+      "description": "The Sport Touring Hybrid is the top hybrid trim of the 2025 US-market Civic Sedan, with a 200-horsepower two-motor hybrid powertrain.",
+      "features": "200-hp hybrid powertrain; 50 city/47 highway MPG; Google built-in; leather-trimmed seats; Bose premium audio; wireless Apple CarPlay; Honda Sensing",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/2025_Honda_Civic_Hybrid_Sport_Touring_%28facelift%29%2C_front_4.18.25.jpg/1280px-2025_Honda_Civic_Hybrid_Sport_Touring_%28facelift%29%2C_front_4.18.25.jpg",
+      "reviews": [
+        {
+          "author": "Jason Miller",
+          "content": "The Civic has a surprisingly lively feel when pulling away from lights. I love the Bose speakers, although the ride is firmer than my old sedan.",
+          "rating": 4.5
+        },
+        {
+          "author": "Mia Thompson",
+          "content": "Google built-in is convenient for navigation and the interior looks fantastic. The glossy surfaces collect fingerprints way too easily.",
+          "rating": 4
+        },
+        {
+          "author": "Eric Nguyen",
+          "content": "I'm impressed by how efficient it is without feeling slow. The front seats are comfortable, but the rear seat is tighter than it looks in photos.",
+          "rating": 4.5
+        },
+        {
+          "author": "Lauren Davis",
+          "content": "The audio system was a big reason I picked this trim and it didn't disappoint. Wish the price gap over the lower trims were smaller.",
+          "rating": 4
+        },
+        {
+          "author": "Brandon Scott",
+          "content": "Really enjoyable to drive on winding roads. Steering feels precise and the hybrid power comes in smoothly. It's one of the few practical cars I actually look forward to driving.",
+          "rating": 5
+        },
+        {
+          "author": "Chloe Martin",
+          "content": "I like the leather-trimmed cabin, but the low seating position isn't my favorite when getting in and out every day.",
+          "rating": 3.5
+        },
+        {
+          "author": "Andrew Walker",
+          "content": "The safety assists are helpful on my commute, though some alerts can be a bit eager. Overall it feels modern and well thought out.",
+          "rating": 4
+        },
+        {
+          "author": "Isabella Chen",
+          "content": "Fuel economy has been excellent for my mix of suburban and highway driving. I do hear some tire noise on rough pavement.",
+          "rating": 4.5
+        },
+        {
+          "author": "Tyler Johnson",
+          "content": "Wireless CarPlay is nice, but I had to reconnect my phone once after an update. Everything else has worked as expected.",
+          "rating": 4
+        },
+        {
+          "author": "Grace Robinson",
+          "content": "I tested the Corolla and Civic back to back. This felt more refined inside and more responsive on the road, so the extra cost made sense for me.",
+          "rating": 4.5
+        }
+      ]
+    },
+    {
+      "id": "2db26555-79f9-4c89-b89d-979536a66403",
+      "name": "2025 Toyota RAV4 Hybrid XLE",
+      "year": 2025,
+      "bodyType": "SUV",
+      "fuelType": "Hybrid",
+      "price": 33410,
+      "description": "The 2025 RAV4 Hybrid XLE is a five-seat compact SUV with standard all-wheel drive and Toyota's 219-horsepower hybrid system.",
+      "features": "2.5L hybrid powertrain; standard all-wheel drive; 219 net combined horsepower; power-adjustable driver seat; Blind Spot Monitor; Rear Cross-Traffic Alert",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/2025_Toyota_RAV4_XLE_Hybrid%2C_rear_left%2C_07-24-2026_%28cropped%29.jpg/1280px-2025_Toyota_RAV4_XLE_Hybrid%2C_rear_left%2C_07-24-2026_%28cropped%29.jpg",
+      "reviews": [
+        {
+          "author": "Michael Turner",
+          "content": "The all-wheel drive gives me extra confidence on rainy mornings, and the cargo area fits our weekly groceries easily. The cabin design feels a little dated.",
+          "rating": 4
+        },
+        {
+          "author": "Hannah Price",
+          "content": "Perfect height for getting kids into their seats. The back doors open wide and there is room for bags, but the engine gets loud when merging hard.",
+          "rating": 4.5
+        },
+        {
+          "author": "David Park",
+          "content": "I chose the hybrid for the better fuel use around town. It has been smooth and predictable so far, just not especially exciting.",
+          "rating": 4
+        },
+        {
+          "author": "Nicole Harris",
+          "content": "Love having the extra cargo space without driving a huge SUV. The infotainment screen is usable, though the interface could be quicker.",
+          "rating": 4
+        },
+        {
+          "author": "Owen Mitchell",
+          "content": "The ride is comfortable over potholes, and visibility is good. I would like a little less wind noise on the highway.",
+          "rating": 3.5
+        },
+        {
+          "author": "Fatima Rahman",
+          "content": "The driver seat adjustments made it easy to find a comfortable position. We took it camping and managed to fit all our gear without much trouble.",
+          "rating": 4.5
+        },
+        {
+          "author": "Chris Adams",
+          "content": "It's a sensible family vehicle. Fuel economy is good for an AWD SUV, but some interior materials don't feel as premium as the price suggests.",
+          "rating": 4
+        },
+        {
+          "author": "Jessica Cooper",
+          "content": "Parking is easier than I expected, and the blind-spot alerts help in busy traffic. The backup camera image could be sharper.",
+          "rating": 4
+        },
+        {
+          "author": "Ethan Collins",
+          "content": "Good balance between everyday practicality and efficiency. The rear seats are fine for adults on shorter trips, but three across is a squeeze.",
+          "rating": 4.5
+        },
+        {
+          "author": "Ava Martinez",
+          "content": "I wanted an SUV that didn't feel wasteful for commuting. This checks that box, although the acceleration can sound strained on steep hills.",
+          "rating": 4
+        }
+      ]
+    },
+    {
+      "id": "2db26555-79f9-4c89-b89d-979536a66404",
+      "name": "2025 Honda CR-V Sport Hybrid",
+      "year": 2025,
+      "bodyType": "SUV",
+      "fuelType": "Hybrid",
+      "price": 34650,
+      "description": "The front-wheel-drive 2025 CR-V Sport Hybrid pairs a 2.0-liter two-motor hybrid system with a five-seat compact SUV body.",
+      "features": "204-hp hybrid powertrain; 43 city/36 highway MPG; heated front seats; dual-zone automatic climate control; Honda Sensing; 7-inch touchscreen",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/25_Honda_CR-V_Hybrid_Sport.jpg/1280px-25_Honda_CR-V_Hybrid_Sport.jpg",
+      "reviews": [
+        {
+          "author": "Brian Lewis",
+          "content": "The CR-V has a roomy back seat and a very usable cargo area. It's made school drop-offs much easier, although the base touchscreen feels small.",
+          "rating": 4.5
+        },
+        {
+          "author": "Sophia White",
+          "content": "Very smooth when driving around the neighborhood. I especially like how quiet it is at low speeds, but highway passing takes a little planning.",
+          "rating": 4
+        },
+        {
+          "author": "Adam Green",
+          "content": "The heated seats are great on chilly mornings. I wish this trim included a bigger infotainment display without needing to move up a model.",
+          "rating": 4
+        },
+        {
+          "author": "Nora Wilson",
+          "content": "I have two car seats in the back and there's still decent space up front. The wide door openings are a bigger deal than I expected.",
+          "rating": 5
+        },
+        {
+          "author": "Peter Hughes",
+          "content": "Fuel use has been good in my mixed commute. The transition between electric and gas power is smooth, though I hear the engine on steeper climbs.",
+          "rating": 4
+        },
+        {
+          "author": "Leah Anderson",
+          "content": "Cabin storage is thoughtfully laid out and the seats are comfortable. A few more physical shortcuts for the screen would be nice.",
+          "rating": 4
+        },
+        {
+          "author": "Samuel King",
+          "content": "Nice ride quality and it handles rough city streets well. The front-wheel-drive setup suits me, but I'd consider AWD if I lived somewhere snowy.",
+          "rating": 4.5
+        },
+        {
+          "author": "Zoe Phillips",
+          "content": "I like the simple dashboard more than I expected. The only disappointment so far is that the screen looks a bit basic next to newer competitors.",
+          "rating": 3.5
+        },
+        {
+          "author": "Ryan Campbell",
+          "content": "Took the family on a five-hour trip and nobody complained about comfort. There's plenty of room for luggage and snacks.",
+          "rating": 4.5
+        },
+        {
+          "author": "Amelia Young",
+          "content": "It isn't sporty in corners, despite the trim name, but it's easy to drive and feels very practical. I'd happily recommend it to another commuter.",
+          "rating": 4
+        }
+      ]
+    },
+    {
+      "id": "2db26555-79f9-4c89-b89d-979536a66405",
+      "name": "2025 Toyota Prius LE",
+      "year": 2025,
+      "bodyType": "Hatchback",
+      "fuelType": "Hybrid",
+      "price": 28350,
+      "description": "The front-wheel-drive 2025 Prius LE is a five-seat hybrid hatchback with 194 net combined horsepower and an EPA-estimated 57 MPG combined.",
+      "features": "2.0L hybrid powertrain; 194 net combined horsepower; 57 MPG combined (EPA-estimated); Blind Spot Monitor; Rear Cross-Traffic Alert; 8-inch multimedia display",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/2025_Toyota_Prius_LE%2C_front_right%2C_09-06-2025.jpg/1280px-2025_Toyota_Prius_LE%2C_front_right%2C_09-06-2025.jpg",
+      "reviews": [
+        {
+          "author": "Alex Rivera",
+          "content": "The fuel efficiency is the biggest win. I drive a lot for work and stop at the gas station far less often now. Rear visibility takes getting used to.",
+          "rating": 4.5
+        },
+        {
+          "author": "Emma Clark",
+          "content": "I love the futuristic styling and how easy it is to park. The low roofline makes getting into the back seat awkward for taller friends.",
+          "rating": 4
+        },
+        {
+          "author": "Noah Evans",
+          "content": "This Prius feels much quicker than older ones I've driven. It's still mostly about efficiency, but it no longer feels sluggish pulling onto the highway.",
+          "rating": 4.5
+        },
+        {
+          "author": "Lily Roberts",
+          "content": "The dashboard layout took a week to feel natural. Once I adjusted my seat and wheel, I got used to it, but it's not my favorite setup.",
+          "rating": 3.5
+        },
+        {
+          "author": "Ben Ortiz",
+          "content": "Excellent commuter. The hatch is useful for groceries and smaller luggage, though the sloping roof limits bulky boxes.",
+          "rating": 4
+        },
+        {
+          "author": "Ella Parker",
+          "content": "City driving is quiet and relaxed, and the hybrid system works smoothly. The front seats fit me well, but the back feels a bit dark.",
+          "rating": 4
+        },
+        {
+          "author": "George Allen",
+          "content": "I was surprised by the handling. It feels more planted than I expected, although road noise is noticeable on coarse highways.",
+          "rating": 4.5
+        },
+        {
+          "author": "Aria Nelson",
+          "content": "I like having blind-spot monitoring on this trim. The display is responsive enough, but some of the menus take too many taps.",
+          "rating": 4
+        },
+        {
+          "author": "Lucas Reed",
+          "content": "The efficiency is great for my long commute. I wish the rear glass gave a clearer view when backing out of crowded spaces.",
+          "rating": 3.5
+        },
+        {
+          "author": "Harper Scott",
+          "content": "Best fit for someone who spends a lot of time in city traffic. It's comfortable up front and economical, just not the best choice if you regularly carry tall adults in back.",
+          "rating": 4.5
+        }
+      ]
+    },
+    {
+      "id": "2db26555-79f9-4c89-b89d-979536a66406",
+      "name": "2025 Honda Accord LX",
+      "year": 2025,
+      "bodyType": "Sedan",
+      "fuelType": "Petrol",
+      "price": 28295,
+      "description": "The US-market 2025 Accord LX is a front-wheel-drive midsize sedan powered by a 1.5-liter turbocharged gasoline engine and CVT.",
+      "features": "1.5L turbocharged engine; CVT; 192 horsepower; 29 city/37 highway MPG; 7-inch touchscreen; Apple CarPlay; Android Auto; Honda Sensing",
+      "imageUrl": "https://di-uploads-pod21.dealerinspire.com/hendrickhondacharleston/uploads/2024/10/mlp-img-top-2025-accord.png",
+      "reviews": [
+        {
+          "author": "William Baker",
+          "content": "The Accord is spacious and easy to drive. I like the turbo engine for highway merging, though I wish this LX trim had a few more comfort features.",
+          "rating": 4
+        },
+        {
+          "author": "Charlotte Moore",
+          "content": "The back seat is genuinely roomy, which matters for our family. The cabin is quieter than my last car, but the touchscreen looks a little small.",
+          "rating": 4.5
+        },
+        {
+          "author": "Henry Jackson",
+          "content": "It's a solid daily driver with a smooth CVT. When I accelerate hard, the engine sound isn't very pleasant.",
+          "rating": 3.5
+        },
+        {
+          "author": "Victoria Perez",
+          "content": "The seating position and visibility are excellent. Apple CarPlay is easy to use, but I'd have preferred wireless connectivity.",
+          "rating": 4
+        },
+        {
+          "author": "Jack Thompson",
+          "content": "Comfortable on long highway runs and surprisingly efficient for a regular gas sedan. The steering is predictable rather than sporty.",
+          "rating": 4.5
+        },
+        {
+          "author": "Layla Ahmed",
+          "content": "I bought the LX because I didn't need a lot of extras. It covers the basics well, although the interior could use a few softer-touch materials.",
+          "rating": 4
+        },
+        {
+          "author": "Connor Bailey",
+          "content": "A lot of rear legroom for the money. The trunk also swallowed our weekend bags without trouble.",
+          "rating": 4.5
+        },
+        {
+          "author": "Madison Wood",
+          "content": "The driver assistance features are useful, but I turned down some alert settings because they were distracting in heavy traffic.",
+          "rating": 3.5
+        },
+        {
+          "author": "Eli Sanders",
+          "content": "The engine has enough power for normal driving. I just wish the transmission felt a little more direct when accelerating from a stop.",
+          "rating": 4
+        },
+        {
+          "author": "Abigail Ross",
+          "content": "A straightforward, comfortable sedan that doesn't try too hard. I appreciate the simple controls, even if it lacks some features newer rivals include.",
+          "rating": 4
+        }
+      ]
+    },
+    {
+      "id": "2db26555-79f9-4c89-b89d-979536a66407",
+      "name": "2025 Hyundai IONIQ 5 N",
+      "year": 2025,
+      "bodyType": "SUV",
+      "fuelType": "Electric",
+      "price": 66200,
+      "description": "The 2025 IONIQ 5 N is Hyundai's all-wheel-drive electric performance SUV, with 601 horsepower normally and up to 641 horsepower with N Grin Boost.",
+      "features": "Dual-motor all-wheel drive; 84-kWh battery; 601 hp (641 hp with N Grin Boost); EPA-estimated 221-mile range; 12.3-inch digital instrument cluster; N performance drive modes",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/2025_Hyundai_Ioniq_5_N%2C_front_NYIAS_2025.jpg/1280px-2025_Hyundai_Ioniq_5_N%2C_front_NYIAS_2025.jpg",
+      "reviews": [
+        {
+          "author": "Dylan Murphy",
+          "content": "The acceleration is genuinely wild and the steering feels sharp for something this size. It's a blast, but the range drops quickly when I drive enthusiastically.",
+          "rating": 4.5
+        },
+        {
+          "author": "Sophie Turner",
+          "content": "The N driving modes are fun to explore and the seats hold you in place nicely. It's a lot of money for a daily driver, though.",
+          "rating": 4
+        },
+        {
+          "author": "Max Chen",
+          "content": "This is the first electric car I've driven that really feels built for performance. Charging on road trips still requires more planning than I'd like.",
+          "rating": 4.5
+        },
+        {
+          "author": "Olivia Grant",
+          "content": "The handling surprised me more than the straight-line speed. It stays composed on twisty roads, although the ride is firm over rough streets.",
+          "rating": 5
+        },
+        {
+          "author": "Evan Brooks",
+          "content": "Love the instant response from the motors. Some of the performance settings take time to learn, and the menus can feel overwhelming at first.",
+          "rating": 4
+        },
+        {
+          "author": "Ruby Patel",
+          "content": "The cabin is spacious enough for everyday use, but I wouldn't buy it mainly for efficiency. This car clearly prioritizes performance.",
+          "rating": 3.5
+        },
+        {
+          "author": "Caleb Foster",
+          "content": "N Grin Boost is a fun feature, but it's something I use occasionally rather than every commute. The brakes and steering inspire confidence.",
+          "rating": 4.5
+        },
+        {
+          "author": "Isla Morgan",
+          "content": "The digital displays look great and the car feels special inside. The stiff suspension is the main downside on my local roads.",
+          "rating": 4
+        },
+        {
+          "author": "Leo Ramirez",
+          "content": "It delivers the excitement I hoped for, but the tire and insurance costs are worth thinking about before buying.",
+          "rating": 4
+        },
+        {
+          "author": "Nina Edwards",
+          "content": "Such a fun car for short drives. For longer trips, the 221-mile EPA estimate means I'd check charging stops carefully, especially in cold weather.",
+          "rating": 4
+        }
+      ]
+    }
+  ]
+}
