@@ -1,5 +1,6 @@
 import cors from "cors";
 import express, { json } from "express";
+import { carsRoutes, chatRoutes } from "./routes";
 
 const app = express();
 
@@ -13,5 +14,8 @@ app.get("/", (req, res) => {
     message: "Welcome to AI Enginnering Conceptual Backend!",
   });
 });
+
+app.use("/cars", carsRoutes);
+app.use("/chat", chatRoutes);
 
 export default app;
